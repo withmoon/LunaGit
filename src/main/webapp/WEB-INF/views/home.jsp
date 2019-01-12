@@ -11,6 +11,5 @@
 
 <P>  The time on the server is ${serverTime}. </P>
 <P>  for check commit </P>
-dddddd
 </body>
 </html>
